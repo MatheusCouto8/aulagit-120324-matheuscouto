@@ -1,5 +1,5 @@
-let a = 10;
+let a = 100;
 let b = 60;
-let mensagem = "O resultado é: "
+let mensagem = "Resultado:"
 let resultado = a - b;
 console.log(mensagem + resultado);
